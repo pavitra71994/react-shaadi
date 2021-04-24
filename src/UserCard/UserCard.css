@@ -1,0 +1,17 @@
+@media all and (min-width: 320px) {
+  .logoutbtn {
+    width: 320px;
+    margin: auto;
+    margin-bottom: 32px;
+  }
+
+  .cardLook {
+    margin: auto;
+    margin-bottom: 24px;
+    width: 18rem;
+  }
+
+  .usertitleLook {
+    margin: auto;
+  }
+}
